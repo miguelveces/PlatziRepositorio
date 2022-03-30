@@ -6,3 +6,8 @@ Panama
 
 este es un parrafo nuevo
 estoy reforzando mis copnocimientos 
+
+
+#comandos importantes para recordar
+
+1. gnome-screenshot -i  "este comando es para abrir el screenshoot"
