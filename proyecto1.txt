@@ -11,3 +11,17 @@ estoy reforzando mis copnocimientos
 #comandos importantes para recordar
 
 1. gnome-screenshot -i  "este comando es para abrir el screenshoot"
+
+2. comando para cambiar git remote -v para validar que url tiene
+
+git remote set-url origin git@github.com:miguelveces/PlatziRepositorio.git
+
+3. agregar llave publica ssh-add ~/.ssh/id_rsa
+
+4. crear llave publica y privada ssh-keygen -t rsa -b 4096 -C "mveces8@gmail.com" 
+se debe crear una para cada computadora
+
+5. git pull origin main --allow-unrelated-histories
+ se usa para hacer pull del repositorio con los cambios en el y merge
+
+ 6. evalua si tienes el proceso ssh ejecutandose eval $(ssh-agent -s)
